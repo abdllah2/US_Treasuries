@@ -12,7 +12,10 @@ US Treasuries are considered risk free investment for many countries, multinatio
 dependancies for the project
 
 pandas: for data manipulation 
+
 matplotlib: for plotting the data
+
 BeautifulSoup: for getting data from html 
+
 urllib.request: builtin python3 package for web requests.  
 
