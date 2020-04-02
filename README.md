@@ -8,3 +8,11 @@ Treasury Yeild are good indicator of how the econonmy is moving and what is the 
 If the Yeild goes up the price is Down, if the Yield goes donw the price is Up.
 
 US Treasuries are considered risk free investment for many countries, multinational institutions and corporations around the world. 
+
+dependancies for the project
+
+pandas: for data manipulation 
+matplotlib: for plotting the data
+BeautifulSoup: for getting data from html 
+urllib.request: builtin python3 package for web requests.  
+
